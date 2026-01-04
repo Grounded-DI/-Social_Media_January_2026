@@ -1,0 +1,6 @@
+# Scroll Metadata Stamp
+System: Grounded DI OS — Midnight Blue Runtime
+Entropy Lock: ∆H = 0.0041
+SHA Standard: SHA-256 (Audit-Certified)
+Timestamp: 2026-01-04T02:18:07.698001Z
+Seal Mode: ZIP Export / GitHub Description Recommended
