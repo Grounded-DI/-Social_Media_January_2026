@@ -98,7 +98,7 @@ These are separate propositions in the archive:
 
 | Proposition | What the archive contains | Boundary |
 | --- | --- | --- |
-| **Model capability** | Captures of outputs or summaries attributed to ChatGPT/GPT-4o, ChatGPT 5.1/5.2, Google AI Mode, and Grok. | The captures do not provide a model benchmark or establish general capability. |
+| **Model capability** | Captures of outputs or summaries attributed to ChatGPT 5.1/5.2, Google AI Mode, and Grok. | The captures do not provide a model benchmark or establish general capability. |
 | **Governed execution** | Descriptions and screenshots of FastPath, Scroll/DIP, entropy, mesh, and domain-control behavior. | No runtime source or reproducible execution environment is included here. |
 | **Replay, provenance, and auditability** | SHA-256 language, audit labels, timestamps in images, and the Git history of the archive. | No detached hash manifest, replay certificate, raw event chain, or verifier is included. |
 | **Artifact status** | Public posts, diagrams, generated summaries, and demonstrations preserved as files. | This repository is a public record, not a product release. |
