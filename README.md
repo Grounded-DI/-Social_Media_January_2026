@@ -2,25 +2,11 @@
 
 A dated public archive of Grounded DI LLC’s January 2026 social posts, screenshots, diagrams, and contemporaneous technical positioning around Deterministic Intelligence (DI²).
 
-## Overview
+## January archive
 
-This repository is a media and provenance archive, not a software distribution. The current branch contains 85 raster images, `GITHUB_DESCRIPTION.md`, and `SCROLL_METADATA_DI_PRINCIPLES.txt`. The images preserve public posts, generated summaries, architecture diagrams, and domain demonstrations added between January 1 and January 27, 2026. Several files also preserve references to earlier 2025 work or later-dated context; those references are retained as part of the record.
+The branch contains **85 raster images**, `GITHUB_DESCRIPTION.md`, and `SCROLL_METADATA_DI_PRINCIPLES.txt`. Added between January 1 and 27, 2026, the captures trace Grounded DI's public DI² / FastPath control vocabulary across legal, environmental, weather, mathematical, and other domain examples. Some images refer to earlier 2025 work or later context; their filenames, captions, and Git commits preserve those distinct dates.
 
-The archive shows how Grounded DI publicly described the Grounded DI OS / Midnight Blue Runtime vocabulary, DI², FastPath, Scroll and Deterministic Intelligence Principles (DIPs), audit-oriented outputs, and domain modules. It records what was posted or displayed at the time. It does not bundle the runtime, source code, dependency manifest, test harness, or underlying datasets represented in the captures.
-
-## Temporal context
-
-This repository should be read in three layers:
-
-- **Historical record:** Git history preserves the January 2026 additions and the contemporaneous public descriptions that accompanied them.
-- **Current framing:** This README describes the inspectable contents of the archive and distinguishes displayed results from executable implementation or outside validation.
-- **Archive language:** Terms such as “One Input → One Output,” “Entropy Lock,” “FastPath,” “Scroll,” “Vault,” and “Midnight Blue Runtime” are preserved because they are part of the dated record. The plain-language orientation below does not replace definitions in the original artifacts.
-
-The GitHub repository was created at `2026-01-02T03:31:51Z`; the first commit is timestamped `2026-01-01 22:31:51 -05:00`. Content was added through January 27, and the last pre-review README commit is dated February 3, 2026.
-
-## Why this archive matters
-
-The January collection makes a cross-domain control vocabulary inspectable in one place. It places legal, environmental, weather, mathematical, coding, text-analysis, real-estate, finance, and creative examples beside the architecture and terminology used to describe them. For a technical evaluator, that provides a dated starting point for tracing how the concepts were expressed, what outputs were shown, and which propositions still require a runtime or independent reproduction.
+The images show posts, architecture diagrams, generated summaries, and demonstration states. The archive does not contain the runtime, underlying datasets, or an executable test harness.
 
 ## What the repository contains
 
@@ -92,17 +78,9 @@ The remaining root-level images are preserved source artifacts. Their filenames 
 
 A notable aspect of this collection is the combination of cross-domain examples with an explicit control vocabulary: declared input/output invariants, named governance layers, entropy values, audit language, and SHA-256 references appear alongside the screenshots that use them. That pairing makes the January public record easier to inspect and compare over time. It does not turn a screenshot into a benchmark, a public statement into third-party validation, or a conceptual architecture into a deployed product.
 
-## Model capability, controlled execution, and external validation
+## Evidence status
 
-These are separate propositions in the archive:
-
-| Proposition | What the archive contains | Boundary |
-| --- | --- | --- |
-| **Model capability** | Captures of outputs or summaries attributed to ChatGPT 5.1/5.2, Google AI Mode, and Grok. | The captures do not provide a model benchmark or establish general capability. |
-| **Governed execution** | Descriptions and screenshots of FastPath, Scroll/DIP, entropy, mesh, and domain-control behavior. | No runtime source or reproducible execution environment is included here. |
-| **Replay, provenance, and auditability** | SHA-256 language, audit labels, timestamps in images, and the Git history of the archive. | No detached hash manifest, replay certificate, raw event chain, or verifier is included. |
-| **Artifact status** | Public posts, diagrams, generated summaries, and demonstrations preserved as files. | This repository is a public record, not a product release. |
-| **External validation** | No outside reproduction or review package is included. | Independent verification remains **UNVERIFIED** in this repository. |
+The captures document the published control model and reported outputs. They do not package a model benchmark, runtime source, raw event chain, or replay verifier; external reproduction is **UNVERIFIED** in this repository. Git commits and object identities establish archive provenance, while individual technical claims follow their source artifacts.
 
 ## Commercial and integration context
 
@@ -129,7 +107,7 @@ No open-source license is currently provided in this repository. Copyright © Gr
 
 ## Scope and limitations
 
-This is a static, documentary January 2026 archive. It contains screenshots and diagrams rather than the implementation, data sources, test suite, or deployment configuration behind the systems described in them. AI Mode, search-result, and social-post captures are preserved as public commentary or reported demonstrations; they are not treated here as independent technical reviews. The repository makes no claim of product deployment, regulatory certification, patent issuance, or independent reproduction based solely on these files.
+AI Mode and search captures record commentary. Product deployment, regulatory certification, patent issuance, and independent reproduction require separate records.
 
 ## How to review
 
